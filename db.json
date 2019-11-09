@@ -1,8 +1,17 @@
 {
   "posts": [
-    { "id": 1, "Drink": "beng-beng" },
-    { "id": 2, "Bakpia Kukus": "Tugu Jogja" },
-    { "id": 3, "Amidis": "Pure water natural life" }
+    { 
+      "id": 1,
+      "title": "beng-beng" 
+    },
+    { 
+      "id": 2, 
+      "title": "Tugu Jogja" 
+    },
+    { 
+      "id": 3, 
+      "title": "Pure water natural life" 
+    }
   ],
   "comments": [
     { "id": 1, "body": "coklat", "postId": 1 },
