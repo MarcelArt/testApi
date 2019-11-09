@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "Drink": "beng-beng" },
+    { "id": 2, "Bakpia Kukus": "Tugu Jogja" },
+    { "id": 3, "Amidis": "Pure water natural life" }
+  ],
+  "comments": [
+    { "id": 1, "body": "coklat", "postId": 1 },
+    { "id": 2, "body": "kue", "postId": 2 }
+  ],
+  "profile": {
+    "name": "MarcelArt"
+  }
+}
