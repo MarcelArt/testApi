@@ -19,5 +19,10 @@
   ],
   "profile": {
     "name": "MarcelArt"
-  }
+  },
+  "projects": [
+    {
+      "title": "Doge",
+      "Description": "Funny japanese dog"
+  ]
 }
